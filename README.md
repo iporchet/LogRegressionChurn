@@ -1,2 +1,4 @@
 # LogRegressionChurn
-Logistice Regression Churn Model
+Logistic Regression Churn Model
+
+Really wanted my $50
