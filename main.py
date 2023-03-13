@@ -11,7 +11,7 @@ from sklearn.metrics import classification_report
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv (r'/home/l3phant/Downloads/Churn_Modelling.csv')
+df = pd.read_csv (r'Churn_Modelling.csv')
 cleaned_df = df = df.drop('CustomerId', axis=1)
 sns.set_theme(style="dark")
 
